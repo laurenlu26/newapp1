@@ -1,0 +1,23 @@
+h1,
+h2,
+h3 {
+  font-family: "Times New Roman", Times, serif;
+  color: seagreen;
+}
+h3 {
+  font-size: 23px;
+  text-align: right;
+}
+.card {
+  color: seagreen;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  font-size: 40px;
+}
+.style {
+  text-align: center;
+}
+.units {
+  font-size: 15px;
+  margin: 0 auto;
+}
