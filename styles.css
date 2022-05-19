@@ -2,14 +2,14 @@ h1,
 h2,
 h3 {
   font-family: "Times New Roman", Times, serif;
-  color: seagreen;
+  color: black;
 }
 h3 {
   font-size: 23px;
   text-align: right;
 }
 .card {
-  color: seagreen;
+  color: black;
   font-family: "Times New Roman", Times, serif;
   text-align: center;
   font-size: 40px;
